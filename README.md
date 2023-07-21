@@ -1,10 +1,12 @@
-<h1 align="center">Hello <img src="https://blog.joypixels.com/content/images/2019/06/waving_hand_sign_1024.gif" width="30px"> I'm <b>Allen Tsang</b> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"></h1> 
+<h1 align="center">Hello fellow &lt;/developers&gt; <img src="https://blog.joypixels.com/content/images/2019/06/waving_hand_sign_1024.gif" width="30px"> I'm <b>Allen Tsang</b> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"></h1> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=allentsangdev" alt="allentsangdev" /> </p>
 
-### About me
-- A Full-Stack Developer based in Canada. 
-- Currently working on some cool side projects based on Web Development and Blockchain.
-- Favourite The Office character - Dwight Schrute.
+
+<img align="right" src="https://github.com/allentsangdev/allentsangdev/blob/main/dwight-schrute.gif"/>
+🧋 <b>About me</b>
+📌 A Full-Stack Developer based in Canada. 
+📌 Currently working on some cool side projects based on Web Development and Blockchain.
+📌 Favourite The Office character - Dwight Schrute. 
 
 
 ## 💻 Tech Stacks:
