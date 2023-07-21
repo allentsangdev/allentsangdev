@@ -3,10 +3,10 @@
 
 
 <img align="right" src="https://github.com/allentsangdev/allentsangdev/blob/main/dwight-schrute.gif"/>
-🧋 <b>About me</b>
-📌 A Full-Stack Developer based in Canada. 
-📌 Currently working on some cool side projects based on Web Development and Blockchain.
-📌 Favourite The Office character - Dwight Schrute. 
+🧋 <b>About me</b> <br/>
+📌 A Full-Stack Developer based in Canada. <br/>
+📌 Currently working on some cool side projects based on Web Development and Blockchain. <br/>
+📌 Favourite The Office character - Dwight Schrute. <br/>
 
 
 ## 💻 Tech Stacks:
@@ -15,7 +15,7 @@
           
 <br/>
           
-## 📧 Connect with me:
+## 📩 Connect with me:
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allen-hs-tg/)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/allentsangdev/)
