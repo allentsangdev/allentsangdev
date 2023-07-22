@@ -3,7 +3,8 @@
 
 
 <img align="right" src="https://github.com/allentsangdev/allentsangdev/blob/main/dwight-schrute.gif"/>
-🧋 <b>About me</b> <br/>
+
+## 🧋 <b>About me</b> <br/>
 📌 A Full-Stack Developer based in Canada. <br/>
 📌 Currently working on some cool side projects based on Web Development and Blockchain. <br/>
 📌 Favourite The Office character - Dwight Schrute. <br/>
