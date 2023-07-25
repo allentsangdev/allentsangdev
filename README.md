@@ -7,7 +7,7 @@
 ## 🧋 About me
 📌 A Full-Stack Developer based in Canada. <br/>
 📌 Currently working on some cool side projects based on Web Development and Blockchain. <br/>
-📌 Favourite The Office character - Dwight Schrute. <br/>
+📌 Favourite The Office character - Dwight K. Schrute. <br/>
 
 
 ## 💻 Tech Stacks
