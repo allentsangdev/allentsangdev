@@ -8,6 +8,7 @@
 📌 A Full-Stack Developer based in Toronto. <br/>
 📌 Currently working on some cool side projects based on Web Development and Blockchain. <br/>
 📌 Favourite The Office character - Dwight K. Schrute. <br/>
+🏆 Check out my recent 2023 ETHToronto Hackathon award-winning project on [BasePay](https://www.basepay.app/) or [GitHub](https://github.com/devacadian/BasePay) 
 
 
 ## 💻 Tech Stacks
