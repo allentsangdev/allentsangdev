@@ -26,5 +26,5 @@
 
 ****
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=allentsangdev&theme=dark&hide_border=false" width="400px">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allentsangdev&theme=dark&show_icons=true&hide_border=false&layout=compact" width="400px">
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=allentsangdev&theme=dark&hide_border=false" width="400px"> -->
+<!-- src="https://github-readme-stats.vercel.app/api/top-langs/?username=allentsangdev&theme=dark&show_icons=true&hide_border=false&layout=compact" width="400px"> -->
