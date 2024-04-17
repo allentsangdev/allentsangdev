@@ -25,3 +25,6 @@
 [![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/allentsang04?hr_r=1)
 
 ****
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=allentsangdev&theme=dark&hide_border=false" width="400px">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allentsangdev&theme=dark&show_icons=true&hide_border=false&layout=compact" width="400px">
